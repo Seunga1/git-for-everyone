@@ -1,5 +1,7 @@
 Story 
 
+Title: Welcome, everyone! 
+
 Paco ate Kimchi.
 
 He hates it.
