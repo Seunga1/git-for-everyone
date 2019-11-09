@@ -1,3 +1,5 @@
 Story 
 
 John ate chicken soup.
+
+He hates it.
