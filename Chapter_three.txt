@@ -2,8 +2,17 @@
 git add . # Change -> Staging
 git status # We can check Status of changes instead of clicking it
 git commit -m "message" # Commit message (sths in Staging Area)
-git commit --amend --no-edit # 따로 커밋 메세지 작성 안 해도 변경 내용 알아서 전 꺼랑 같이!!
+
+git commit --amend --no-edit 
+# 따로 커밋 메세지 작성 안 해도 변경 내용 알아서 전 꺼랑 같이!!
 
 git push origin (branch name) --force
 # 이전 내용과의 충돌 및 병합 에러등을 방지하고 commit 들을 수정한 내용을 
 # 무조건 적으로 local에서 Github으로 옮겨준다.
+
+
+.gitignore
+# 깃에 변경사항이 기록되지 않을 내용/파일 등을 적는곳.
+
+git rm -r images/ --cached 
+# git에 스테이징된 내용(파일) 취소
