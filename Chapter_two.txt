@@ -4,3 +4,5 @@ It's chapter two!! blablabla
 
 What is difference btw hard/mixed/soft reset?
 What's the role of each?
+
+Can we change our commit and push to github?
