@@ -1,3 +1,6 @@
 Hey yaa
 
 It's chapter two!! blablabla
+
+What is difference btw hard/mixed/soft reset?
+What's the role of each?
