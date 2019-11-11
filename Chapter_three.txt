@@ -1,1 +1,5 @@
-Yoohoo Chapter three is here!!
+
+git add . //Change -> Staging
+git status // We can check Status of changes instead of clicking it
+git commit -m "message" //Commit message (sths in Staging Area)
+git commit --amend --no-edit // 따로 커밋 메세지 작성 안 해도 변경 내용 알아서 전 꺼랑 같이!!
